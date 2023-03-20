@@ -20,8 +20,9 @@ jobs:
               run: |
                   npm install
                   npm run generate
+                  ls
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.0
               with:
                   branch: generated
-                  folder: .output/public
+                  folder: dist
