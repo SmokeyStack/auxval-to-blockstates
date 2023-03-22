@@ -11,8 +11,5 @@ export default defineNuxtConfig({
         define: {
             'process.env.DEBUG': false
         }
-    },
-    app: {
-        baseURL: '/auxval-to-blockstates/'
     }
 });
