@@ -3262,42 +3262,42 @@
     {
         "id": "minecraft:chest",
         "dv": 0,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 1,
-        "bs": "[\"facing_direction\" = 1]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 2,
-        "bs": "[\"facing_direction\" = 2]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 3,
-        "bs": "[\"facing_direction\" = 3]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 4,
-        "bs": "[\"facing_direction\" = 4]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 5,
-        "bs": "[\"facing_direction\" = 5]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 6,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:chest",
         "dv": 7,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:chorus_flower",
@@ -6987,42 +6987,42 @@
     {
         "id": "minecraft:ender_chest",
         "dv": 0,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 1,
-        "bs": "[\"facing_direction\" = 1]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 2,
-        "bs": "[\"facing_direction\" = 2]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 3,
-        "bs": "[\"facing_direction\" = 3]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 4,
-        "bs": "[\"facing_direction\" = 4]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 5,
-        "bs": "[\"facing_direction\" = 5]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 6,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:ender_chest",
         "dv": 7,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:exposed_cut_copper_slab",
@@ -8247,162 +8247,162 @@
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 0,
-        "bs": "[\"color\" = \"white\"]"
+        "bs": "minecraft:hard_white_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 1,
-        "bs": "[\"color\" = \"orange\"]"
+        "bs": "minecraft:hard_orange_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 2,
-        "bs": "[\"color\" = \"magenta\"]"
+        "bs": "minecraft:hard_magenta_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 3,
-        "bs": "[\"color\" = \"light_blue\"]"
+        "bs": "minecraft:hard_light_blue_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 4,
-        "bs": "[\"color\" = \"yellow\"]"
+        "bs": "minecraft:hard_yellow_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 5,
-        "bs": "[\"color\" = \"lime\"]"
+        "bs": "minecraft:hard_lime_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 6,
-        "bs": "[\"color\" = \"pink\"]"
+        "bs": "minecraft:hard_pink_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 7,
-        "bs": "[\"color\" = \"gray\"]"
+        "bs": "minecraft:hard_gray_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 8,
-        "bs": "[\"color\" = \"silver\"]"
+        "bs": "minecraft:hard_light_gray_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 9,
-        "bs": "[\"color\" = \"cyan\"]"
+        "bs": "minecraft:hard_cyan_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 10,
-        "bs": "[\"color\" = \"purple\"]"
+        "bs": "minecraft:hard_purple_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 11,
-        "bs": "[\"color\" = \"blue\"]"
+        "bs": "minecraft:hard_blue_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 12,
-        "bs": "[\"color\" = \"brown\"]"
+        "bs": "minecraft:hard_brown_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 13,
-        "bs": "[\"color\" = \"green\"]"
+        "bs": "minecraft:hard_green_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 14,
-        "bs": "[\"color\" = \"red\"]"
+        "bs": "minecraft:hard_red_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass",
         "dv": 15,
-        "bs": "[\"color\" = \"black\"]"
+        "bs": "minecraft:hard_black_stained_glass"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 0,
-        "bs": "[\"color\" = \"white\"]"
+        "bs": "minecraft:hard_white_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 1,
-        "bs": "[\"color\" = \"orange\"]"
+        "bs": "minecraft:hard_orange_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 2,
-        "bs": "[\"color\" = \"magenta\"]"
+        "bs": "minecraft:hard_magenta_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 3,
-        "bs": "[\"color\" = \"light_blue\"]"
+        "bs": "minecraft:hard_light_blue_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 4,
-        "bs": "[\"color\" = \"yellow\"]"
+        "bs": "minecraft:hard_yellow_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 5,
-        "bs": "[\"color\" = \"lime\"]"
+        "bs": "minecraft:hard_lime_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 6,
-        "bs": "[\"color\" = \"pink\"]"
+        "bs": "minecraft:hard_pink_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 7,
-        "bs": "[\"color\" = \"gray\"]"
+        "bs": "minecraft:hard_gray_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 8,
-        "bs": "[\"color\" = \"silver\"]"
+        "bs": "minecraft:hard_light_gray_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 9,
-        "bs": "[\"color\" = \"cyan\"]"
+        "bs": "minecraft:hard_cyan_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 10,
-        "bs": "[\"color\" = \"purple\"]"
+        "bs": "minecraft:hard_purple_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 11,
-        "bs": "[\"color\" = \"blue\"]"
+        "bs": "minecraft:hard_blue_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 12,
-        "bs": "[\"color\" = \"brown\"]"
+        "bs": "minecraft:hard_brown_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 13,
-        "bs": "[\"color\" = \"green\"]"
+        "bs": "minecraft:hard_green_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 14,
-        "bs": "[\"color\" = \"red\"]"
+        "bs": "minecraft:hard_red_stained_glass_pane"
     },
     {
         "id": "minecraft:hard_stained_glass_pane",
         "dv": 15,
-        "bs": "[\"color\" = \"black\"]"
+        "bs": "minecraft:hard_black_stained_glass_pane"
     },
     {
         "id": "minecraft:hay_block",
@@ -12322,42 +12322,42 @@
     {
         "id": "minecraft:planks",
         "dv": 0,
-        "bs": "[\"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 1,
-        "bs": "[\"wood_type\" = \"spruce\"]"
+        "bs": "minecraft:spruce_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 2,
-        "bs": "[\"wood_type\" = \"birch\"]"
+        "bs": "minecraft:birch_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 3,
-        "bs": "[\"wood_type\" = \"jungle\"]"
+        "bs": "minecraft:jungle_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 4,
-        "bs": "[\"wood_type\" = \"acacia\"]"
+        "bs": "minecraft:acacia_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 5,
-        "bs": "[\"wood_type\" = \"dark_oak\"]"
+        "bs": "minecraft:dark_oak_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 6,
-        "bs": "[\"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_planks"
     },
     {
         "id": "minecraft:planks",
         "dv": 7,
-        "bs": "[\"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_planks"
     },
     {
         "id": "minecraft:polished_andesite_stairs",
@@ -16122,42 +16122,42 @@
     {
         "id": "minecraft:stone",
         "dv": 0,
-        "bs": "[\"stone_type\" = \"stone\"]"
+        "bs": "minecraft:stone"
     },
     {
         "id": "minecraft:stone",
         "dv": 1,
-        "bs": "[\"stone_type\" = \"granite\"]"
+        "bs": "minecraft:granite"
     },
     {
         "id": "minecraft:stone",
         "dv": 2,
-        "bs": "[\"stone_type\" = \"granite_smooth\"]"
+        "bs": "minecraft:polished_granite"
     },
     {
         "id": "minecraft:stone",
         "dv": 3,
-        "bs": "[\"stone_type\" = \"diorite\"]"
+        "bs": "minecraft:diorite"
     },
     {
         "id": "minecraft:stone",
         "dv": 4,
-        "bs": "[\"stone_type\" = \"diorite_smooth\"]"
+        "bs": "minecraft:polished_diorite"
     },
     {
         "id": "minecraft:stone",
         "dv": 5,
-        "bs": "[\"stone_type\" = \"andesite\"]"
+        "bs": "minecraft:andesite"
     },
     {
         "id": "minecraft:stone",
         "dv": 6,
-        "bs": "[\"stone_type\" = \"andesite_smooth\"]"
+        "bs": "minecraft:polished_andesite"
     },
     {
         "id": "minecraft:stone",
         "dv": 7,
-        "bs": "[\"stone_type\" = \"stone\"]"
+        "bs": "minecraft:stone"
     },
     {
         "id": "minecraft:stone_block_slab2",
@@ -16762,42 +16762,42 @@
     {
         "id": "minecraft:stonecutter_block",
         "dv": 0,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 1,
-        "bs": "[\"facing_direction\" = 1]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 2,
-        "bs": "[\"facing_direction\" = 2]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 3,
-        "bs": "[\"facing_direction\" = 3]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 4,
-        "bs": "[\"facing_direction\" = 4]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 5,
-        "bs": "[\"facing_direction\" = 5]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 6,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:stonecutter_block",
         "dv": 7,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:stripped_acacia_log",
@@ -17262,42 +17262,42 @@
     {
         "id": "minecraft:trapped_chest",
         "dv": 0,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 1,
-        "bs": "[\"facing_direction\" = 1]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 2,
-        "bs": "[\"facing_direction\" = 2]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 3,
-        "bs": "[\"facing_direction\" = 3]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 4,
-        "bs": "[\"facing_direction\" = 4]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 5,
-        "bs": "[\"facing_direction\" = 5]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 6,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:trapped_chest",
         "dv": 7,
-        "bs": "[\"facing_direction\" = 0]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:trip_wire",
