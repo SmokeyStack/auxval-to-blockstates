@@ -6707,82 +6707,82 @@
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"spruce\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"birch\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"jungle\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"acacia\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"dark_oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"spruce\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"birch\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"jungle\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"acacia\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"dark_oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:double_wooden_slab",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:dropper",
@@ -9977,162 +9977,162 @@
     {
         "id": "minecraft:leaves2",
         "dv": 0,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 1,
-        "bs": "[\"new_leaf_type\" = \"dark_oak\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 2,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 3,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 4,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 5,
-        "bs": "[\"new_leaf_type\" = \"dark_oak\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 6,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 7,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 8,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 9,
-        "bs": "[\"new_leaf_type\" = \"dark_oak\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 10,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 11,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 12,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 13,
-        "bs": "[\"new_leaf_type\" = \"dark_oak\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 14,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves2",
         "dv": 15,
-        "bs": "[\"new_leaf_type\" = \"acacia\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 0,
-        "bs": "[\"old_leaf_type\" = \"oak\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 1,
-        "bs": "[\"old_leaf_type\" = \"spruce\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 2,
-        "bs": "[\"old_leaf_type\" = \"birch\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 3,
-        "bs": "[\"old_leaf_type\" = \"jungle\", \"persistent_bit\" = false, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 4,
-        "bs": "[\"old_leaf_type\" = \"oak\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 5,
-        "bs": "[\"old_leaf_type\" = \"spruce\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 6,
-        "bs": "[\"old_leaf_type\" = \"birch\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 7,
-        "bs": "[\"old_leaf_type\" = \"jungle\", \"persistent_bit\" = false, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = false, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 8,
-        "bs": "[\"old_leaf_type\" = \"oak\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 9,
-        "bs": "[\"old_leaf_type\" = \"spruce\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 10,
-        "bs": "[\"old_leaf_type\" = \"birch\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 11,
-        "bs": "[\"old_leaf_type\" = \"jungle\", \"persistent_bit\" = true, \"update_bit\" = false]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = false]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 12,
-        "bs": "[\"old_leaf_type\" = \"oak\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 13,
-        "bs": "[\"old_leaf_type\" = \"spruce\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 14,
-        "bs": "[\"old_leaf_type\" = \"birch\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:leaves",
         "dv": 15,
-        "bs": "[\"old_leaf_type\" = \"jungle\", \"persistent_bit\" = true, \"update_bit\" = true]"
+        "bs": "[\"persistent_bit\" = true, \"update_bit\" = true]"
     },
     {
         "id": "minecraft:lectern",
@@ -10847,22 +10847,22 @@
     {
         "id": "minecraft:log2",
         "dv": 12,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"acacia\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log2",
         "dv": 13,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"dark_oak\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log2",
         "dv": 14,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"acacia\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log2",
         "dv": 15,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"acacia\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log",
@@ -10927,22 +10927,22 @@
     {
         "id": "minecraft:log",
         "dv": 12,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"oak\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log",
         "dv": 13,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"spruce\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log",
         "dv": 14,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"birch\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:log",
         "dv": 15,
-        "bs": "[\"pillar_axis\" = \"y\", \"stripped_bit\" = false, \"wood_type\" = \"jungle\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:loom",
@@ -19062,82 +19062,82 @@
     {
         "id": "minecraft:wood",
         "dv": 0,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 1,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"spruce\"]"
+        "bs": "minecraft:spruce_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 2,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"birch\"]"
+        "bs": "minecraft:birch_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 3,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"jungle\"]"
+        "bs": "minecraft:jungle_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 4,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"acacia\"]"
+        "bs": "minecraft:acacia_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 5,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"dark_oak\"]"
+        "bs": "minecraft:dark_oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 6,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 7,
-        "bs": "[\"stripped_bit\" = false, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 8,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:stripped_oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 9,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"spruce\"]"
+        "bs": "minecraft:stripped_spruce_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 10,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"birch\"]"
+        "bs": "minecraft:stripped_birch_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 11,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"jungle\"]"
+        "bs": "minecraft:stripped_jungle_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 12,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"acacia\"]"
+        "bs": "minecraft:stripped_acacia_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 13,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"dark_oak\"]"
+        "bs": "minecraft:stripped_dark_oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 14,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:stripped_oak_wood"
     },
     {
         "id": "minecraft:wood",
         "dv": 15,
-        "bs": "[\"stripped_bit\" = true, \"wood_type\" = \"oak\"]"
+        "bs": "minecraft:stripped_oak_wood"
     },
     {
         "id": "minecraft:wooden_button",
@@ -19462,82 +19462,82 @@
     {
         "id": "minecraft:wooden_slab",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"spruce\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"birch\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"jungle\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"acacia\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"dark_oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = false]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"spruce\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"birch\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"jungle\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"acacia\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"dark_oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wooden_slab",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"wood_type\" = \"oak\"]"
+        "bs": "[\"top_slot_bit\" = true]"
     },
     {
         "id": "minecraft:wool",
