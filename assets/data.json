@@ -4152,162 +4152,162 @@
     {
         "id": "minecraft:coral_fan",
         "dv": 0,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 1,
-        "bs": "[\"coral_color\" = \"pink\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 2,
-        "bs": "[\"coral_color\" = \"purple\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 3,
-        "bs": "[\"coral_color\" = \"red\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 4,
-        "bs": "[\"coral_color\" = \"yellow\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 5,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 6,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 7,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 8,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 9,
-        "bs": "[\"coral_color\" = \"pink\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 10,
-        "bs": "[\"coral_color\" = \"purple\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 11,
-        "bs": "[\"coral_color\" = \"red\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 12,
-        "bs": "[\"coral_color\" = \"yellow\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 13,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 14,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan",
         "dv": 15,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 0,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 1,
-        "bs": "[\"coral_color\" = \"pink\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 2,
-        "bs": "[\"coral_color\" = \"purple\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 3,
-        "bs": "[\"coral_color\" = \"red\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 4,
-        "bs": "[\"coral_color\" = \"yellow\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 5,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 6,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 7,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 0]"
+        "bs": "[\"coral_fan_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 8,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 9,
-        "bs": "[\"coral_color\" = \"pink\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 10,
-        "bs": "[\"coral_color\" = \"purple\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 11,
-        "bs": "[\"coral_color\" = \"red\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 12,
-        "bs": "[\"coral_color\" = \"yellow\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 13,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 14,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_dead",
         "dv": 15,
-        "bs": "[\"coral_color\" = \"blue\", \"coral_fan_direction\" = 1]"
+        "bs": "[\"coral_fan_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
@@ -13607,82 +13607,82 @@
     {
         "id": "minecraft:red_flower",
         "dv": 0,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 1,
-        "bs": "[\"flower_type\" = \"orchid\"]"
+        "bs": "minecraft:blue_orchid"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 2,
-        "bs": "[\"flower_type\" = \"allium\"]"
+        "bs": "minecraft:allium"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 3,
-        "bs": "[\"flower_type\" = \"houstonia\"]"
+        "bs": "minecraft:azure_bluet"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 4,
-        "bs": "[\"flower_type\" = \"tulip_red\"]"
+        "bs": "minecraft:red_tulip"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 5,
-        "bs": "[\"flower_type\" = \"tulip_orange\"]"
+        "bs": "minecraft:orange_tulip"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 6,
-        "bs": "[\"flower_type\" = \"tulip_white\"]"
+        "bs": "minecraft:white_tulip"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 7,
-        "bs": "[\"flower_type\" = \"tulip_pink\"]"
+        "bs": "minecraft:pink_tulip"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 8,
-        "bs": "[\"flower_type\" = \"oxeye\"]"
+        "bs": "minecraft:oxeye_daisy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 9,
-        "bs": "[\"flower_type\" = \"cornflower\"]"
+        "bs": "minecraft:cornflower"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 10,
-        "bs": "[\"flower_type\" = \"lily_of_the_valley\"]"
+        "bs": "minecraft:lily_of_the_valley"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 11,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 12,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 13,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 14,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_flower",
         "dv": 15,
-        "bs": "[\"flower_type\" = \"poppy\"]"
+        "bs": "minecraft:poppy"
     },
     {
         "id": "minecraft:red_glazed_terracotta",
@@ -14282,82 +14282,82 @@
     {
         "id": "minecraft:sapling",
         "dv": 0,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 1,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"spruce\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 2,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"birch\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 3,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"jungle\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 4,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"acacia\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 5,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"dark_oak\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 6,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 7,
-        "bs": "[\"age_bit\" = false, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = false]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 8,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 9,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"spruce\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 10,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"birch\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 11,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"jungle\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 12,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"acacia\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 13,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"dark_oak\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 14,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:sapling",
         "dv": 15,
-        "bs": "[\"age_bit\" = true, \"sapling_type\" = \"oak\"]"
+        "bs": "[\"age_bit\" = true]"
     },
     {
         "id": "minecraft:scaffolding",
