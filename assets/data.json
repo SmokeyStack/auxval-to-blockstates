@@ -762,82 +762,82 @@
     {
         "id": "minecraft:anvil",
         "dv": 0,
-        "bs": "[\"damage\" = \"undamaged\", \"minecraft:cardinal_direction\" = \"south\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 1,
-        "bs": "[\"damage\" = \"undamaged\", \"minecraft:cardinal_direction\" = \"west\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 2,
-        "bs": "[\"damage\" = \"undamaged\", \"minecraft:cardinal_direction\" = \"north\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 3,
-        "bs": "[\"damage\" = \"undamaged\", \"minecraft:cardinal_direction\" = \"east\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 4,
-        "bs": "[\"damage\" = \"slightly_damaged\", \"minecraft:cardinal_direction\" = \"south\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 5,
-        "bs": "[\"damage\" = \"slightly_damaged\", \"minecraft:cardinal_direction\" = \"west\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 6,
-        "bs": "[\"damage\" = \"slightly_damaged\", \"minecraft:cardinal_direction\" = \"north\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 7,
-        "bs": "[\"damage\" = \"slightly_damaged\", \"minecraft:cardinal_direction\" = \"east\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 8,
-        "bs": "[\"damage\" = \"very_damaged\", \"minecraft:cardinal_direction\" = \"south\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 9,
-        "bs": "[\"damage\" = \"very_damaged\", \"minecraft:cardinal_direction\" = \"west\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 10,
-        "bs": "[\"damage\" = \"very_damaged\", \"minecraft:cardinal_direction\" = \"north\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 11,
-        "bs": "[\"damage\" = \"very_damaged\", \"minecraft:cardinal_direction\" = \"east\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 12,
-        "bs": "[\"damage\" = \"broken\", \"minecraft:cardinal_direction\" = \"south\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 13,
-        "bs": "[\"damage\" = \"broken\", \"minecraft:cardinal_direction\" = \"west\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 14,
-        "bs": "[\"damage\" = \"broken\", \"minecraft:cardinal_direction\" = \"north\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:anvil",
         "dv": 15,
-        "bs": "[\"damage\" = \"broken\", \"minecraft:cardinal_direction\" = \"east\"]"
+        "bs": "[\"minecraft:cardinal_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:bamboo",
@@ -4312,242 +4312,242 @@
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 0,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 1,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 2,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 3,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 4,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 5,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 6,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 7,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 8,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 9,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 10,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 11,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 12,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 13,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 14,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang2",
         "dv": 15,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 0,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 1,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 2,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 3,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 4,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 5,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 6,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 7,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 8,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 9,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 10,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 11,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 12,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 13,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 14,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang3",
         "dv": 15,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 0,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 1,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 2,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 3,
-        "bs": "[\"coral_direction\" = 0, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 0]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 4,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 5,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 6,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 7,
-        "bs": "[\"coral_direction\" = 1, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 1]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 8,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 9,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 10,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 11,
-        "bs": "[\"coral_direction\" = 2, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 2]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 12,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 13,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = false]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 14,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = false, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:coral_fan_hang",
         "dv": 15,
-        "bs": "[\"coral_direction\" = 3, \"coral_hang_type_bit\" = true, \"dead_bit\" = true]"
+        "bs": "[\"coral_direction\" = 3]"
     },
     {
         "id": "minecraft:crimson_button",
@@ -6217,12 +6217,12 @@
     {
         "id": "minecraft:dirt",
         "dv": 0,
-        "bs": "[\"dirt_type\" = \"normal\"]"
+        "bs": "minecraft:dirt"
     },
     {
         "id": "minecraft:dirt",
         "dv": 1,
-        "bs": "[\"dirt_type\" = \"coarse\"]"
+        "bs": "minecraft:coarse_dirt"
     },
     {
         "id": "minecraft:dispenser",
@@ -6387,322 +6387,322 @@
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"purpur\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_rough\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_dark\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"mossy_cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"smooth_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"red_nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"purpur\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_rough\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_dark\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"mossy_cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"smooth_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab2",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"red_nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"end_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"smooth_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"end_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"smooth_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab3",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"smooth_quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"cut_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"cut_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"smooth_quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"cut_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"cut_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab4",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"smooth_stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"wood\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type\" = \"nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"smooth_stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"wood\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_stone_block_slab",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type\" = \"nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:double_wooden_slab",
@@ -6977,12 +6977,12 @@
     {
         "id": "minecraft:end_rod",
         "dv": 6,
-        "bs": "[\"block_light_level\" = 14]"
+        "bs": "minecraft:light_block_14"
     },
     {
         "id": "minecraft:end_rod",
         "dv": 7,
-        "bs": "[\"block_light_level\" = 14]"
+        "bs": "minecraft:light_block_14"
     },
     {
         "id": "minecraft:ender_chest",
@@ -10257,82 +10257,82 @@
     {
         "id": "minecraft:light_block",
         "dv": 0,
-        "bs": "[\"block_light_level\" = 0]"
+        "bs": "minecraft:light_block_0"
     },
     {
         "id": "minecraft:light_block",
         "dv": 1,
-        "bs": "[\"block_light_level\" = 1]"
+        "bs": "minecraft:light_block_1"
     },
     {
         "id": "minecraft:light_block",
         "dv": 2,
-        "bs": "[\"block_light_level\" = 2]"
+        "bs": "minecraft:light_block_2"
     },
     {
         "id": "minecraft:light_block",
         "dv": 3,
-        "bs": "[\"block_light_level\" = 3]"
+        "bs": "minecraft:light_block_3"
     },
     {
         "id": "minecraft:light_block",
         "dv": 4,
-        "bs": "[\"block_light_level\" = 4]"
+        "bs": "minecraft:light_block_4"
     },
     {
         "id": "minecraft:light_block",
         "dv": 5,
-        "bs": "[\"block_light_level\" = 5]"
+        "bs": "minecraft:light_block_5"
     },
     {
         "id": "minecraft:light_block",
         "dv": 6,
-        "bs": "[\"block_light_level\" = 6]"
+        "bs": "minecraft:light_block_6"
     },
     {
         "id": "minecraft:light_block",
         "dv": 7,
-        "bs": "[\"block_light_level\" = 7]"
+        "bs": "minecraft:light_block_7"
     },
     {
         "id": "minecraft:light_block",
         "dv": 8,
-        "bs": "[\"block_light_level\" = 8]"
+        "bs": "minecraft:light_block_8"
     },
     {
         "id": "minecraft:light_block",
         "dv": 9,
-        "bs": "[\"block_light_level\" = 9]"
+        "bs": "minecraft:light_block_9"
     },
     {
         "id": "minecraft:light_block",
         "dv": 10,
-        "bs": "[\"block_light_level\" = 10]"
+        "bs": "minecraft:light_block_10"
     },
     {
         "id": "minecraft:light_block",
         "dv": 11,
-        "bs": "[\"block_light_level\" = 11]"
+        "bs": "minecraft:light_block_11"
     },
     {
         "id": "minecraft:light_block",
         "dv": 12,
-        "bs": "[\"block_light_level\" = 12]"
+        "bs": "minecraft:light_block_12"
     },
     {
         "id": "minecraft:light_block",
         "dv": 13,
-        "bs": "[\"block_light_level\" = 13]"
+        "bs": "minecraft:light_block_13"
     },
     {
         "id": "minecraft:light_block",
         "dv": 14,
-        "bs": "[\"block_light_level\" = 14]"
+        "bs": "minecraft:light_block_14"
     },
     {
         "id": "minecraft:light_block",
         "dv": 15,
-        "bs": "[\"block_light_level\" = 15]"
+        "bs": "minecraft:light_block_15"
     },
     {
         "id": "minecraft:light_blue_candle",
@@ -11687,42 +11687,42 @@
     {
         "id": "minecraft:monster_egg",
         "dv": 0,
-        "bs": "[\"monster_egg_stone_type\" = \"stone\"]"
+        "bs": "minecraft:infested_stone"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 1,
-        "bs": "[\"monster_egg_stone_type\" = \"cobblestone\"]"
+        "bs": "minecraft:infested_cobblestone"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 2,
-        "bs": "[\"monster_egg_stone_type\" = \"stone_brick\"]"
+        "bs": "minecraft:infested_stone_bricks"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 3,
-        "bs": "[\"monster_egg_stone_type\" = \"mossy_stone_brick\"]"
+        "bs": "minecraft:infested_mossy_stone_bricks"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 4,
-        "bs": "[\"monster_egg_stone_type\" = \"cracked_stone_brick\"]"
+        "bs": "minecraft:infested_cracked_stone_bricks"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 5,
-        "bs": "[\"monster_egg_stone_type\" = \"chiseled_stone_brick\"]"
+        "bs": "minecraft:infested_chiseled_stone_bricks"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 6,
-        "bs": "[\"monster_egg_stone_type\" = \"stone\"]"
+        "bs": "minecraft:infested_stone"
     },
     {
         "id": "minecraft:monster_egg",
         "dv": 7,
-        "bs": "[\"monster_egg_stone_type\" = \"stone\"]"
+        "bs": "minecraft:infested_stone"
     },
     {
         "id": "minecraft:mossy_cobblestone_stairs",
@@ -12987,22 +12987,22 @@
     {
         "id": "minecraft:prismarine",
         "dv": 0,
-        "bs": "[\"prismarine_block_type\" = \"default\"]"
+        "bs": "minecraft:prismarine"
     },
     {
         "id": "minecraft:prismarine",
         "dv": 1,
-        "bs": "[\"prismarine_block_type\" = \"dark\"]"
+        "bs": "minecraft:dark_prismarine"
     },
     {
         "id": "minecraft:prismarine",
         "dv": 2,
-        "bs": "[\"prismarine_block_type\" = \"bricks\"]"
+        "bs": "minecraft:prismarine_bricks"
     },
     {
         "id": "minecraft:prismarine",
         "dv": 3,
-        "bs": "[\"prismarine_block_type\" = \"default\"]"
+        "bs": "minecraft:prismarine"
     },
     {
         "id": "minecraft:prismarine_bricks_stairs",
@@ -13357,82 +13357,82 @@
     {
         "id": "minecraft:quartz_block",
         "dv": 0,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 1,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 2,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 3,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 4,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 5,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 6,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 7,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 8,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 9,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 10,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 11,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 12,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 13,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 14,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_block",
         "dv": 15,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:quartz_stairs",
@@ -13847,22 +13847,22 @@
     {
         "id": "minecraft:red_sandstone",
         "dv": 0,
-        "bs": "[\"sand_stone_type\" = \"default\"]"
+        "bs": "minecraft:red_sandstone"
     },
     {
         "id": "minecraft:red_sandstone",
         "dv": 1,
-        "bs": "[\"sand_stone_type\" = \"heiroglyphs\"]"
+        "bs": "minecraft:chiseled_red_sandstone"
     },
     {
         "id": "minecraft:red_sandstone",
         "dv": 2,
-        "bs": "[\"sand_stone_type\" = \"cut\"]"
+        "bs": "minecraft:cut_red_sandstone"
     },
     {
         "id": "minecraft:red_sandstone",
         "dv": 3,
-        "bs": "[\"sand_stone_type\" = \"smooth\"]"
+        "bs": "minecraft:smooth_red_sandstone"
     },
     {
         "id": "minecraft:red_sandstone_stairs",
@@ -14212,32 +14212,32 @@
     {
         "id": "minecraft:sand",
         "dv": 0,
-        "bs": "[\"sand_type\" = \"normal\"]"
+        "bs": "minecraft:sand"
     },
     {
         "id": "minecraft:sand",
         "dv": 1,
-        "bs": "[\"sand_type\" = \"red\"]"
+        "bs": "minecraft:red_sand"
     },
     {
         "id": "minecraft:sandstone",
         "dv": 0,
-        "bs": "[\"sand_stone_type\" = \"default\"]"
+        "bs": "minecraft:sandstone"
     },
     {
         "id": "minecraft:sandstone",
         "dv": 1,
-        "bs": "[\"sand_stone_type\" = \"heiroglyphs\"]"
+        "bs": "minecraft:chiseled_sandstone"
     },
     {
         "id": "minecraft:sandstone",
         "dv": 2,
-        "bs": "[\"sand_stone_type\" = \"cut\"]"
+        "bs": "minecraft:cut_sandstone"
     },
     {
         "id": "minecraft:sandstone",
         "dv": 3,
-        "bs": "[\"sand_stone_type\" = \"smooth\"]"
+        "bs": "minecraft:smooth_sandstone"
     },
     {
         "id": "minecraft:sandstone_stairs",
@@ -16162,242 +16162,242 @@
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"purpur\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_rough\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_dark\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"prismarine_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"mossy_cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"smooth_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_2\" = \"red_nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"purpur\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_rough\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_dark\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"prismarine_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"mossy_cobblestone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"smooth_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab2",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_2\" = \"red_nether_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"end_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"smooth_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_3\" = \"polished_granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"end_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"smooth_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"andesite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_diorite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab3",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_3\" = \"polished_granite\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 0,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 1,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"smooth_quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 2,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 3,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"cut_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 4,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"cut_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 5,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 6,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 7,
-        "bs": "[\"minecraft:vertical_half\" = \"bottom\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"bottom\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 8,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 9,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"smooth_quartz\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 10,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"stone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 11,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"cut_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 12,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"cut_red_sandstone\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 13,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 14,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab4",
         "dv": 15,
-        "bs": "[\"minecraft:vertical_half\" = \"top\", \"stone_slab_type_4\" = \"mossy_stone_brick\"]"
+        "bs": "[\"minecraft:vertical_half\" = \"top\"]"
     },
     {
         "id": "minecraft:stone_block_slab",
@@ -16722,42 +16722,42 @@
     {
         "id": "minecraft:stonebrick",
         "dv": 0,
-        "bs": "[\"stone_brick_type\" = \"default\"]"
+        "bs": "minecraft:stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 1,
-        "bs": "[\"stone_brick_type\" = \"mossy\"]"
+        "bs": "minecraft:mossy_stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 2,
-        "bs": "[\"stone_brick_type\" = \"cracked\"]"
+        "bs": "minecraft:cracked_stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 3,
-        "bs": "[\"stone_brick_type\" = \"chiseled\"]"
+        "bs": "minecraft:chiseled_stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 4,
-        "bs": "[\"stone_brick_type\" = \"smooth\"]"
+        "bs": "minecraft:stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 5,
-        "bs": "[\"stone_brick_type\" = \"default\"]"
+        "bs": "minecraft:stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 6,
-        "bs": "[\"stone_brick_type\" = \"default\"]"
+        "bs": "minecraft:stone_bricks"
     },
     {
         "id": "minecraft:stonebrick",
         "dv": 7,
-        "bs": "[\"stone_brick_type\" = \"default\"]"
+        "bs": "minecraft:stone_bricks"
     },
     {
         "id": "minecraft:stonecutter_block",
