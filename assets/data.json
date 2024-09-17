@@ -3182,82 +3182,82 @@
     {
         "id": "minecraft:chemistry_table",
         "dv": 0,
-        "bs": "[\"chemistry_table_type\" = \"compound_creator\", \"direction\" = 0]"
+        "bs": "[\"direction\" = 0]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 1,
-        "bs": "[\"chemistry_table_type\" = \"compound_creator\", \"direction\" = 1]"
+        "bs": "[\"direction\" = 1]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 2,
-        "bs": "[\"chemistry_table_type\" = \"compound_creator\", \"direction\" = 2]"
+        "bs": "[\"direction\" = 2]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 3,
-        "bs": "[\"chemistry_table_type\" = \"compound_creator\", \"direction\" = 3]"
+        "bs": "[\"direction\" = 3]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 4,
-        "bs": "[\"chemistry_table_type\" = \"material_reducer\", \"direction\" = 0]"
+        "bs": "[\"direction\" = 0]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 5,
-        "bs": "[\"chemistry_table_type\" = \"material_reducer\", \"direction\" = 1]"
+        "bs": "[\"direction\" = 1]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 6,
-        "bs": "[\"chemistry_table_type\" = \"material_reducer\", \"direction\" = 2]"
+        "bs": "[\"direction\" = 2]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 7,
-        "bs": "[\"chemistry_table_type\" = \"material_reducer\", \"direction\" = 3]"
+        "bs": "[\"direction\" = 3]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 8,
-        "bs": "[\"chemistry_table_type\" = \"element_constructor\", \"direction\" = 0]"
+        "bs": "[\"direction\" = 0]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 9,
-        "bs": "[\"chemistry_table_type\" = \"element_constructor\", \"direction\" = 1]"
+        "bs": "[\"direction\" = 1]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 10,
-        "bs": "[\"chemistry_table_type\" = \"element_constructor\", \"direction\" = 2]"
+        "bs": "[\"direction\" = 2]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 11,
-        "bs": "[\"chemistry_table_type\" = \"element_constructor\", \"direction\" = 3]"
+        "bs": "[\"direction\" = 3]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 12,
-        "bs": "[\"chemistry_table_type\" = \"lab_table\", \"direction\" = 0]"
+        "bs": "[\"direction\" = 0]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 13,
-        "bs": "[\"chemistry_table_type\" = \"lab_table\", \"direction\" = 1]"
+        "bs": "[\"direction\" = 1]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 14,
-        "bs": "[\"chemistry_table_type\" = \"lab_table\", \"direction\" = 2]"
+        "bs": "[\"direction\" = 2]"
     },
     {
         "id": "minecraft:chemistry_table",
         "dv": 15,
-        "bs": "[\"chemistry_table_type\" = \"lab_table\", \"direction\" = 3]"
+        "bs": "[\"direction\" = 3]"
     },
     {
         "id": "minecraft:chest",
@@ -3352,82 +3352,82 @@
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 0,
-        "bs": "[\"wall_block_type\" = \"cobblestone\"]"
+        "bs": "minecraft:cobblestone_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 1,
-        "bs": "[\"wall_block_type\" = \"mossy_cobblestone\"]"
+        "bs": "minecraft:mossy_cobblestone_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 2,
-        "bs": "[\"wall_block_type\" = \"granite\"]"
+        "bs": "minecraft:granite_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 3,
-        "bs": "[\"wall_block_type\" = \"diorite\"]"
+        "bs": "minecraft:diorite_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 4,
-        "bs": "[\"wall_block_type\" = \"andesite\"]"
+        "bs": "minecraft:andesite_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 5,
-        "bs": "[\"wall_block_type\" = \"sandstone\"]"
+        "bs": "minecraft:sandstone_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 6,
-        "bs": "[\"wall_block_type\" = \"brick\"]"
+        "bs": "minecraft:brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 7,
-        "bs": "[\"wall_block_type\" = \"stone_brick\"]"
+        "bs": "minecraft:stone_brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 8,
-        "bs": "[\"wall_block_type\" = \"mossy_stone_brick\"]"
+        "bs": "minecraft:mossy_stone_brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 9,
-        "bs": "[\"wall_block_type\" = \"nether_brick\"]"
+        "bs": "minecraft:nether_brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 10,
-        "bs": "[\"wall_block_type\" = \"end_brick\"]"
+        "bs": "minecraft:end_stone_brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 11,
-        "bs": "[\"wall_block_type\" = \"prismarine\"]"
+        "bs": "minecraft:prismarine_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 12,
-        "bs": "[\"wall_block_type\" = \"red_sandstone\"]"
+        "bs": "minecraft:red_sandstone_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 13,
-        "bs": "[\"wall_block_type\" = \"red_nether_brick\"]"
+        "bs": "minecraft:red_nether_brick_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 14,
-        "bs": "[\"wall_block_type\" = \"cobblestone\"]"
+        "bs": "minecraft:cobblestone_wall"
     },
     {
         "id": "minecraft:cobblestone_wall",
         "dv": 15,
-        "bs": "[\"wall_block_type\" = \"cobblestone\"]"
+        "bs": "minecraft:cobblestone_wall"
     },
     {
         "id": "minecraft:cocoa",
@@ -3512,162 +3512,162 @@
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 0,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 1,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"west\"]"
+        "bs": "[\"torch_facing_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 2,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"east\"]"
+        "bs": "[\"torch_facing_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 3,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"north\"]"
+        "bs": "[\"torch_facing_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 4,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"south\"]"
+        "bs": "[\"torch_facing_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 5,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"top\"]"
+        "bs": "[\"torch_facing_direction\" = \"top\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 6,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 7,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 8,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 9,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"west\"]"
+        "bs": "[\"torch_facing_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 10,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"east\"]"
+        "bs": "[\"torch_facing_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 11,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"north\"]"
+        "bs": "[\"torch_facing_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 12,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"south\"]"
+        "bs": "[\"torch_facing_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 13,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"top\"]"
+        "bs": "[\"torch_facing_direction\" = \"top\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 14,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_bp",
         "dv": 15,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 0,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 1,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"west\"]"
+        "bs": "[\"torch_facing_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 2,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"east\"]"
+        "bs": "[\"torch_facing_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 3,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"north\"]"
+        "bs": "[\"torch_facing_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 4,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"south\"]"
+        "bs": "[\"torch_facing_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 5,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"top\"]"
+        "bs": "[\"torch_facing_direction\" = \"top\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 6,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 7,
-        "bs": "[\"color_bit\" = false, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 8,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 9,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"west\"]"
+        "bs": "[\"torch_facing_direction\" = \"west\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 10,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"east\"]"
+        "bs": "[\"torch_facing_direction\" = \"east\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 11,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"north\"]"
+        "bs": "[\"torch_facing_direction\" = \"north\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 12,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"south\"]"
+        "bs": "[\"torch_facing_direction\" = \"south\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 13,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"top\"]"
+        "bs": "[\"torch_facing_direction\" = \"top\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 14,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:colored_torch_rg",
         "dv": 15,
-        "bs": "[\"color_bit\" = true, \"torch_facing_direction\" = \"unknown\"]"
+        "bs": "[\"torch_facing_direction\" = \"unknown\"]"
     },
     {
         "id": "minecraft:command_block",
@@ -13237,82 +13237,82 @@
     {
         "id": "minecraft:purpur_block",
         "dv": 0,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 1,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 2,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 3,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 4,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 5,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 6,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 7,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"x\"]"
+        "bs": "[\"pillar_axis\" = \"x\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 8,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 9,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 10,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 11,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"z\"]"
+        "bs": "[\"pillar_axis\" = \"z\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 12,
-        "bs": "[\"chisel_type\" = \"default\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 13,
-        "bs": "[\"chisel_type\" = \"chiseled\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 14,
-        "bs": "[\"chisel_type\" = \"lines\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_block",
         "dv": 15,
-        "bs": "[\"chisel_type\" = \"smooth\", \"pillar_axis\" = \"y\"]"
+        "bs": "[\"pillar_axis\" = \"y\"]"
     },
     {
         "id": "minecraft:purpur_stairs",
@@ -14992,12 +14992,12 @@
     {
         "id": "minecraft:sponge",
         "dv": 0,
-        "bs": "[\"sponge_type\" = \"dry\"]"
+        "bs": "minecraft:sponge"
     },
     {
         "id": "minecraft:sponge",
         "dv": 1,
-        "bs": "[\"sponge_type\" = \"wet\"]"
+        "bs": "minecraft:wet_sponge"
     },
     {
         "id": "minecraft:spruce_button",
@@ -17052,12 +17052,12 @@
     {
         "id": "minecraft:structure_void",
         "dv": 0,
-        "bs": "[\"structure_void_type\" = \"void\"]"
+        "bs": "minecraft:structure_void"
     },
     {
         "id": "minecraft:structure_void",
         "dv": 1,
-        "bs": "[\"structure_void_type\" = \"air\"]"
+        "bs": "minecraft:structure_void"
     },
     {
         "id": "minecraft:sweet_berry_bush",
@@ -17122,22 +17122,22 @@
     {
         "id": "minecraft:tnt",
         "dv": 0,
-        "bs": "[\"allow_underwater_bit\" = false, \"explode_bit\" = false]"
+        "bs": "[\"explode_bit\" = false]"
     },
     {
         "id": "minecraft:tnt",
         "dv": 1,
-        "bs": "[\"allow_underwater_bit\" = false, \"explode_bit\" = true]"
+        "bs": "[\"explode_bit\" = true]"
     },
     {
         "id": "minecraft:tnt",
         "dv": 2,
-        "bs": "[\"allow_underwater_bit\" = true, \"explode_bit\" = false]"
+        "bs": "[\"explode_bit\" = false]"
     },
     {
         "id": "minecraft:tnt",
         "dv": 3,
-        "bs": "[\"allow_underwater_bit\" = true, \"explode_bit\" = true]"
+        "bs": "[\"explode_bit\" = true]"
     },
     {
         "id": "minecraft:torch",
